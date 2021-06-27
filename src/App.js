@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and reload with docker co ffffmpose file.
+          Edit <code>src/App.js</code> and reload with docker file.
         </p>
         <a
           className="App-link"
